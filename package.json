@@ -1,0 +1,27 @@
+{
+  "name": "revel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bf-solid": "^1.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-server-livereload": "^1.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diggs00/REVEL.git"
+  },
+  "author": "baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diggs00/REVEL/issues"
+  },
+  "homepage": "https://github.com/diggs00/REVEL#readme"
+}
